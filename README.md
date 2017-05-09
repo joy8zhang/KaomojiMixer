@@ -1,3 +1,5 @@
+
+
 # Kaomoji Mixer
 
 Kaomoji Mixer is an android app that allow users to create their own kaomoji easily.
@@ -20,6 +22,9 @@ NOTE: Add button currently only works with ╥ symbol. which all the the kaomoji
 
 <img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji3.png" height="250"><tr><td class="caption">Crying face image activated with ╥ symbol</td></tr>
 
+## Quick Access
+[activity_main.xml](https://github.com/joy8zhang/KaomojiMixer/blob/master/app/src/main/res/layout/activity_main.xml)
+[MainActivity.java](https://github.com/joy8zhang/KaomojiMixer/blob/master/app/src/main/java/com/example/joysenpai/kaomoji/MainActivity.java)
 
 ## Built With
 
