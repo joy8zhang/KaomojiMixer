@@ -14,6 +14,12 @@ NOTE: Add button currently only works with ╥ symbol. which all the the kaomoji
 
 ## Screenshots
 
+<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji1.png" height="24">
+
+<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji2.png" height="24">
+
+<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji2.png" height="24">
+
 ![First screen](/figures/kaomoji1.png =100x250)
 ![Make an kaomoji](/figures/kaomoji2.png){width=50%}
 ![Crying face image activated with ╥ symbol ](/figures/kaomoji3.png){width=50%}
