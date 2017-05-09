@@ -13,7 +13,7 @@ Kaomoji Mixer is an android app that allow users to create their own kaomoji eas
 NOTE: Add button currently only works with ╥ symbol. which all the the kaomoji created with crying eyes (╥) will produce a crying face image upon click of Add.
 
 ## Screenshots
-![Alt text](/relative/path/to/kaomoji1.png?raw=true "Optional Title")
+![Alt text](../figures/kaomoji1.png?raw=true "Optional Title")
 ![First screen](../figures/kaomoji1.png){width=50%}
 ![Make an kaomoji](../figures/kaomoji2.png){width=50%}
 ![Crying face image activated with ╥ symbol ](../figures/kaomoji3.png){width=50%}
