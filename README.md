@@ -14,11 +14,11 @@ NOTE: Add button currently only works with ╥ symbol. which all the the kaomoji
 
 ## Screenshots
 
-![First screen]<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji1.png" height="250">
+<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji1.png" height="250"><tr><td class="caption">First screen</td></tr>
 
-![Make an kaomoji]<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji2.png" height="250">
+<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji2.png" height="250"><tr><td class="caption">Make an kaomoji</td></tr>
 
-![Crying face image activated with ╥ symbol ]<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji3.png" height="250">
+<img src="https://github.com/joy8zhang/KaomojiMixer/blob/master/figures/kaomoji3.png" height="250"><tr><td class="caption">Crying face image activated with ╥ symbol</td></tr>
 
 
 ## Built With
