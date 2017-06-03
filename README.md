@@ -29,6 +29,7 @@ NOTE: Add button currently only works with ╥ symbol. which all the the kaomoji
 ## Built With
 
 * Android Studio
+* Java/XML
 
 ## Acknowledgments
 
